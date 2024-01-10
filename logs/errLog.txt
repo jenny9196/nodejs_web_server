@@ -1,0 +1,17 @@
+20240106	15:52:24	634b6878-417f-4207-81ad-95d4699a0486	Error:Not allowed by CORS
+20240106	15:58:43	39b47887-cff8-447c-90b9-ce7909685196	Error:ENOENT: no such file or directory, stat 'C:\Users\yejin\OneDrive\Desktop\projects\node\study-node\nodejs_web_server\view\404.html'
+20240106	16:02:17	073b286c-b7c2-4661-b87f-f25a8ea89f28	Error:ENOENT: no such file or directory, stat 'C:\Users\yejin\OneDrive\Desktop\projects\node\study-node\nodejs_web_server\view\404.html'
+20240106	16:02:21	7c1b3e40-4066-49f5-9237-0aebf684d3ee	Error:ENOENT: no such file or directory, stat 'C:\Users\yejin\OneDrive\Desktop\projects\node\study-node\nodejs_web_server\view\404.html'
+20240106	16:02:22	0be93299-45d8-430b-b924-a80930b2add3	Error:ENOENT: no such file or directory, stat 'C:\Users\yejin\OneDrive\Desktop\projects\node\study-node\nodejs_web_server\view\404.html'
+20240106	16:02:23	55fa3603-9093-47da-bbb9-d792e5d93902	Error:ENOENT: no such file or directory, stat 'C:\Users\yejin\OneDrive\Desktop\projects\node\study-node\nodejs_web_server\view\404.html'
+20240106	16:14:13	c2a44995-69e0-4af8-bfb5-eafc1362b089	Error:ENOENT: no such file or directory, stat 'C:\Users\yejin\OneDrive\Desktop\projects\node\study-node\nodejs_web_server\views\sundir\index.html'
+20240106	16:14:49	d17eb80c-0d29-46c1-99ed-405b08511fc7	Error:ENOENT: no such file or directory, stat 'C:\Users\yejin\OneDrive\Desktop\projects\node\study-node\nodejs_web_server\views\sundir\index.html'
+20240109	18:39:19	4556ff23-772a-46ea-a6e2-63d6362b1cab	TypeError:Cannot read properties of undefined (reading 'split')
+20240109	18:39:36	01c1b5d3-df11-40bb-9831-cb7d49941adf	TypeError:Cannot read properties of undefined (reading 'split')
+20240109	18:43:12	0e9dd4bd-2d93-48d9-897b-99b211cf3768	TypeError:Cannot read properties of undefined (reading 'split')
+20240109	18:44:48	b52daf29-83ae-45b4-b6b6-56ab3b63f2b5	ReferenceError:token is not defined
+20240109	18:46:51	6635a990-d364-44ef-b1e6-46e81f1f6f25	ReferenceError:token is not defined
+20240109	18:47:00	bddd170a-5a90-4449-b894-368c3627ed4f	ReferenceError:token is not defined
+20240109	18:50:44	b2fc7b37-7c34-4992-afda-06033a3f70bb	TypeError:Cannot read properties of undefined (reading 'split')
+20240110	20:38:10	a0a73e9a-8b4b-4615-acd8-2fb17d24505f	TypeError:Cannot read properties of undefined (reading 'username')
+20240110	20:39:37	0311de39-db62-4dd1-864f-28cd7fbf424f	TypeError:Cannot read properties of undefined (reading 'username')
